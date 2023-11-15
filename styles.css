@@ -180,7 +180,7 @@ span{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: #e3e6e6;
+    background-image: linear-gradient(#d8f2f1,#e3e6e6 30%);
 
 }
 
